@@ -66,6 +66,24 @@ Quick starting guide for new plugin devs:
   - eslint will then create a report with suggestions for code improvement by file and line number.
 - If your source code is in a folder, such as `src`, you can use eslint with this command to analyze all files in that folder:
   - `eslint .\src\`
+ 
+  - 
+Tronovo示波器探头100M无源探头笔通用表线200M探针通用型适用国产进口模拟表笔示波器线 19001(黑色, 探头帽子)
+https://item.jd.com/25984492459.html#crumb-wrap
+
+5
+
+水星（MERCURY）SG105C 5口千兆交换机 4口网线网络分线器 家用宿舍监控分流器 兼容百兆
+https://item.jd.com/8327090.html#crumb-wrap
+45
+
+宏碁(acer)HDMI线2.0版 4K超高清线1.5米 3D视频线工程级 笔记本电脑显示器机顶盒电视投影仪数据连接线
+https://item.jd.com/100021320404.html#crumb-wrap
+9.9
+
+闪迪（SanDisk） CZ50 酷刃 USB2.0优盘塑料时尚U盘 迷你创意优盘 经典加密闪存盘 64G
+https://item.jd.com/69547858428.html#crumb-wrap
+32.9
 
 ## Funding URL
 
